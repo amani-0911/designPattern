@@ -1,0 +1,16 @@
+@CHARSET "ISO-8859-1";
+.labelTitle{
+	-fx-background-color: rgb(51,77,179);
+	-fx-text-fill: #f7f7f7;
+	-fx-font-size: 26px;
+}
+.button{
+	-fx-background-color: rgb(204,204,204);
+	-fx-border-color: rgb(0,0,255);
+	-fx-background-radius: 3.0,2.0,2.0,2.0;
+	-fx-text-fill: rgb(0,0,0);
+	-fx-font-size: 15px ;
+	-fx-pref-height: 40px;
+	-fx-pref-width: 120px;
+	
+}
